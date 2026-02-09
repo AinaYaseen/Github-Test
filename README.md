@@ -1,1 +1,3 @@
-An incorrect commit
+The first change
+The second change
+The third change
